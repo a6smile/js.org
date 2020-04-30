@@ -53,6 +53,7 @@ var cnames_active = {
   "7anshuai": "7anshuai.github.io", // noCF? (don´t add this in a new PR)
   "98": "1j01.github.io/98",
   "9932": "dannyzhan.github.io",
+  "a6smile": "a6smile.github.io/a6smile",
   "a-western-story": "hotsaucefiretruck.github.io/A-Western-Story",
   "a11yslider": "mmahandev.github.io/a11y-slider",
   "aalaap": "aalaap.github.io",
